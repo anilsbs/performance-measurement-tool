@@ -1,0 +1,16 @@
+bin/
+lib/
+dist/
+ODCS_OneClickAutomation/
+.settings/
+.recommenders/
+.metadata/
+RemoteSystemsTempFiles/
+*.log
+OneClickAutomation.jar
+
+# Eclipse Core
+.project
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
